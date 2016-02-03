@@ -1,0 +1,4 @@
+Patrick, How are you?  Love, Dad
+Dear all, attached are the IPython notebooks for today's session.
+Paul, this is Joris from the Big Data team.  We've finally updated Spark in our cluster to 1.5.  Enjoy!
+Dear Patrick, Your books from Amazon have now shipped!
